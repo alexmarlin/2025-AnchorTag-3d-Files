@@ -1,4 +1,4 @@
-# Bill of Materials
+# Tag Bill of Materials
 
 | Item | Cost | Link(s) |
 | ---- | ---- | ------- |
