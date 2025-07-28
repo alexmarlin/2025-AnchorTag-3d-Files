@@ -1,8 +1,14 @@
+# Anchor Mk. 1 vs Mk. 2
+
+Mk. 1 ($0.96) - Top is uniform height for the entire length of the enclosure, but this would require a redesign of the charger.
+
+Mk. 2 ($0.84) - Front has a dip to allow for charging. 
+
 # Anchor Bill of Materials
 
 | Item | Cost | Link |
 | ---- | ---- | ------- |
-| Enclosures | ~$1.05 ea. | [ADDFab Lab](https://www.umass.edu/ials/core-facilities/advanced-digital-design-and-fabrication-addfab) |
+| Enclosures | ~$1.00 ea. | [ADDFab Lab](https://www.umass.edu/ials/core-facilities/advanced-digital-design-and-fabrication-addfab) |
 | Screws | $0 | Comes with Shimmer Case |
 
 # Bands
