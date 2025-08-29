@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Tighten screws just until the enclosure stays tight: Too much force will comprimise the nuts
+
 # Tag Bill of Materials
 
 | Item | Cost (per tag) | Cost (total) | Link(s) |
